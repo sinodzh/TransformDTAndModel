@@ -1,0 +1,26 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/TransformDTAndModel/bin/Debug/TransformDTAndModel.dll
+/TransformDTAndModel/bin/Debug/TransformDTAndModel.pdb
+/TransformDTAndModel/bin/Debug/TransformDTToModel.dll
+/TransformDTAndModel/bin/Debug/TransformDTToModel.pdb
+/TransformDTAndModel/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/TransformDTAndModel/obj/Debug/TransformDTAndModel.csproj.FileListAbsolute.txt
+/TransformDTAndModel/obj/Debug/TransformDTAndModel.csprojResolveAssemblyReference.cache
+/TransformDTAndModel/obj/Debug/TransformDTAndModel.dll
+/TransformDTAndModel/obj/Debug/TransformDTAndModel.pdb
+/TransformDTAndModel/obj/Debug/TransformDTToModel.csproj.FileListAbsolute.txt
+/TransformDTAndModel/obj/Debug/TransformDTToModel.csprojResolveAssemblyReference.cache
+/TransformDTAndModel/obj/Debug/TransformDTToModel.dll
+/TransformDTAndModel/obj/Debug/TransformDTToModel.pdb
+/UnitTest/bin/Debug/TransformDTAndModel.dll
+/UnitTest/bin/Debug/TransformDTAndModel.pdb
+/UnitTest/bin/Debug/UnitTest.dll
+/UnitTest/bin/Debug/UnitTest.pdb
+/UnitTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/UnitTest/obj/Debug/UnitTest.csproj.FileListAbsolute.txt
+/UnitTest/obj/Debug/UnitTest.csprojResolveAssemblyReference.cache
+/UnitTest/obj/Debug/UnitTest.dll
+/UnitTest/obj/Debug/UnitTest.pdb
